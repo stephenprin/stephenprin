@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prince Stephen
-- 👀 I’m interested in mobile and web development
+- 👀 I’m interested in mobile and web development and blockchain
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking forward to working with google 
 - 📫 You can reach me via +2347065995236 or email me on stephenprince427@gmail.com
