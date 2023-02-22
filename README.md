@@ -1,10 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Nmezi
 ====================================================================================================================================
 
-Junior software developer
+Software developer
 -------------------------
 
-I am a software engineer 👨🏽‍💻 with deep passion for the tech space, building to scale web applications using modern technologies. Through practicing and personal projects have leverage my abilities to successfully achieve organizational goal, using modern technology such as GraphQL, ReactJS and NodeJS. Also handle database management systems with SQL like Postgres or No SQL such as MongoDB and Docker for containerization. I have experience in UX design, unit, and integration testing . My background has prepared me to excel in any capacity, with plenty of hands-on classroom and practical experience in software development for a variety of usages. My technical abilities, coupled with my adaptability and interpersonal skills, position me ready to thrive in this field. Additionally, I possess the agile mindset, which is the ability to work in a team environment. Currently, I am enhancing my knowledge of Algorithms and Data structures to boost my problem-solving skills 🛠. I am constantly looking for a ways to improve my coding skills and ready to grow at all times ⚡️
+Hi 👋🏽
+
+ I am Prince Nmezi, a skilled React/Node engineer 👨🏽‍💻 with a strong passion for technology and a focus on building scalable web applications using modern tools and frameworks 📱🖥️. Over time, I have honed my abilities through practice and personal projects, consistently delivering on organizational goals using cutting-edge technologies such as GraphQL, ReactJS, React Native, Nestjs and Expressjs.
+
+My experience extends to handling various database management systems, including SQL-based systems such as Postgres and NoSQL options like MongoDB, as well as containerization tools such as Docker. I am also proficient in UX design and unit and integration testing 🔦, ensuring that every aspect of the applications I develop meets the highest standards of quality.
+
+With a rich background in software development and hands-on experience across various use cases, I am well-positioned to excel in any capacity in this field. My technical skills are complemented by my adaptability and strong interpersonal abilities, enabling me to thrive in collaborative team environments.
+
+I embrace an agile mindset and continually seek out opportunities to expand my knowledge and skills, currently focusing on improving my problem-solving capabilities by delving deeper into algorithms and data structures 🛠. With a deep commitment to personal and professional growth, I am always seeking ways to enhance my coding skills and contribute to the success of any team or project I am a part of.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [stephenprince427@gmail.com](mailto:stephenprince427@gmail.com)
