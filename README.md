@@ -6,17 +6,11 @@ Software developer
 
 Hi 👋🏽
 
- I am Prince Nmezi, a skilled React/Node engineer 👨🏽‍💻 with a strong passion for technology and a focus on building scalable web applications using modern tools and frameworks 📱🖥️. Over time, I have honed my abilities through practice and personal projects, consistently delivering on organizational goals using cutting-edge technologies such as GraphQL, ReactJS, React Native, Nestjs and Expressjs.
-
-My experience extends to handling various database management systems, including SQL-based systems such as Postgres and NoSQL options like MongoDB, as well as containerization tools such as Docker. I am also proficient in UX design and unit and integration testing 🔦, ensuring that every aspect of the applications I develop meets the highest standards of quality.
-
-With a rich background in software development and hands-on experience across various use cases, I am well-positioned to excel in any capacity in this field. My technical skills are complemented by my adaptability and strong interpersonal abilities, enabling me to thrive in collaborative team environments.
-
-I embrace an agile mindset and continually seek out opportunities to expand my knowledge and skills, currently focusing on improving my problem-solving capabilities by delving deeper into algorithms and data structures 🛠. With a deep commitment to personal and professional growth, I am always seeking ways to enhance my coding skills and contribute to the success of any team or project I am a part of.
+ I am Prince Nmezi, I’m a results-oriented software engineer with expertise in high-performance solutions. Proficient in ReactJS, NodeJs, Nextjs, Testing, and Kubernetes, I thrive on staying ahead of industry advancements. My collaborative approach led to a 15% increase in team productivity. Meticulous code reviews reduced reported bugs by 30%. I'm eager to join an innovative team that values top-tier work.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [stephenprince427@gmail.com](mailto:stephenprince427@gmail.com)
-* 🚀  I'm currently working on [Admin Dashboard](http://admindashboardp.netlify.app)
+* 🚀  I'm currently working on [Onboarding platform]([http://admindashboardp.netlify.app](https://onboarding.flutterwave.com/signup/steps/65297953caddeab39669a409))
 * 🧠  I'm learning Data structure and Deep dive into React
 * 🤝  I'm open to collaborating on any project on VR and AI
 
