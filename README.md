@@ -7,7 +7,7 @@ Software Developer
 
 Hello 👋
 
-Full Stack Software Engineer with **5+ years of experience** building scalable **fintech platforms, compliance engines, and SaaS systems** using **Java (Spring Boot), C# (.NET), React**, and cloud-native architectures. Proven success in delivering **secure, high-performance platforms** used by millions of users and driving operational efficiency through **automation, microservices, and robust API design**.
+Full Stack Software Engineer with **5+ years of experience** building scalable **fintech platforms, compliance engines, and SaaS systems** using Nodejs , **Java (Spring Boot), React**, and cloud-native architectures. Proven success in delivering **secure, high-performance platforms** used by millions of users and driving operational efficiency through **automation, microservices, and robust API design**.
 
 * 🌍  I'm based in Nigeria  
 * ✉️  You can contact me at [stephenprince427@gmail.com](mailto:stephenprince427@gmail.com)  
